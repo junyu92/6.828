@@ -139,6 +139,7 @@ UPROGS=\
 	$U/_cow\
 	$U/_uthread\
 	$U/_call\
+	$U/_xargs\
 	$U/_kalloctest\
 	$U/_bcachetest\
 	$U/_mounttest\
